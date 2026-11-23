@@ -1,0 +1,15 @@
+# Dependencies and build outputs
+node_modules/
+dist/
+build/
+.next/
+.vercel/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
